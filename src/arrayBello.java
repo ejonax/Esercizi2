@@ -1,11 +1,11 @@
 
 import java.util.Arrays;
 
-class arrayBello {
+public class arrayBello {
    
     public static int[] add(int[] arr,int el){
             
-           int  len1=arr.length;
+           int len1=arr.length;
            int len2=len1+1;
            int[] newArray=new int[len2];
     
