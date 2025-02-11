@@ -1,6 +1,8 @@
 
 public class Sequence {
   
+    public Sequence() {
+    }
     // il metodo prende come parametro un array di int
     public static int longestIncreasing (int[] arr){
             int maxSecLength = 1;
@@ -38,4 +40,6 @@ public class Sequence {
         System.out.println("la lunghezza della sequenza crescente piu' lunga è " + risultato);
    
        }
+
+   
 }
