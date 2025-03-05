@@ -1,3 +1,4 @@
+
 public class UsaRazionale {
     public static void main(String[] args) {
         Razionale raz1=new Razionale(3, 5);
@@ -30,5 +31,6 @@ public class UsaRazionale {
 
         Razionale raz10=new Razionale(3, 0);// provare exception
 
+      
     }
 }
