@@ -11,7 +11,7 @@ public class StampaIstogramma {
                     System.out.print("*");
                 }
             }else if (elemento==0){
-                   System.err.print("zero");
+                System.out.print("zero");
 
             }else{
                 System.out.print("-( ");
